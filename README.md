@@ -1,6 +1,6 @@
 # Ex. No : 6	
 # IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-## Register Number :212223240012
+## Register Number :212223240150
 
 ## AIM   
 To write a program to implement the back end of the compiler.
@@ -14,7 +14,7 @@ To write a program to implement the back end of the compiler.
 6.	Stop the program.
 
 ## PROGRAM
-```
+```c
 
 #include <stdio.h>
 #include <ctype.h>
@@ -59,7 +59,7 @@ int main() {
 }
 ```
 ## OUTPUT 
-k.txt
+### k.txt
 
 ![WhatsApp Image 2024-11-12 at 05 44 19_b1f68c6b](https://github.com/user-attachments/assets/8f4ec027-429b-4426-a5a3-f081b2164929)
 ## PROGRAM OUTPUT
